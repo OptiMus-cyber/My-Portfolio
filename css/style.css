@@ -402,7 +402,7 @@ span {
         padding: 10rem 3% 2rem;
     }
 
-    .services h2 {
+    .services {
         padding-bottom: 7rem;
     }
 
@@ -428,7 +428,7 @@ span {
         position: absolute;
         top: 100%;
         left: 0;
-        width: 100%;
+        width: 90%;
         padding: 1rem 3%;
         background: var(--bg-color);
         border-top: .1rem solid rgba(0, 0, 0, .2);
